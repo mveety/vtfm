@@ -1,0 +1,8 @@
+For building VTfm executable unzip VTFM.ZIP first in some
+directory and then use the following DCL commands:
+
+	$ set default [.vtfm]
+	$ @vtfm.com
+
+The result of this operation is VTFM.VAX_EXE for VAX,
+VTFM.ALPHA_EXE for ALPHA or VTFM.IA64_EXE for IA64.

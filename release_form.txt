@@ -1,0 +1,20 @@
+DEVELOPER RELEASE FORM: 
+
+As the owner or developer of this software or as the developer that has ported
+to or as modified an existing open-source package for use on OpenVMS, I release
+it to be included on the HP OpenVMS Freeware media and on the OpenVMS and other
+Freeware websites. If the software package requires a license or a Product
+Authorization Key (PAK), I will provide and/or will authorize the OpenVMS
+Freeware maintainer to provide an unlimited and non-terminating license or PAK.
+I expect no renumerance for the use of this software from any party. The GPL,
+FreeBSD, or other common open-source software license(s) may apply to the
+submission package. I understand that the maintainer of the OpenVMS Freeware
+may decline to include my package for export or other regulatory reasons, due
+to insufficient storage, or for any other reasons at the discretion of the
+Freeware maintainer and of HP. Please contact the OpenVMS Freeware maintainer
+if you have any questions on this agreement. 
+
+					_______________________
+					Developer/Owner
+					Vladimir K. Vershinin, Moscow, Russia
+					E-mail: vershinin-vk@tochka.ru
